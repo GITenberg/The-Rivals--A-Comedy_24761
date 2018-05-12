@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/754
     wikipedia: http://en.wikipedia.org/wiki/Richard_Brinsley_Sheridan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24761#The-Rivals--A-Comedy
 gutenberg_issued: '2008-03-06'
 gutenberg_type: Text
 identifiers:
