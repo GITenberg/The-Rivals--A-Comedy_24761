@@ -1,0 +1,33 @@
+_repo: The-Rivals--A-Comedy_24761
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sheridan, Richard Brinsley
+    aliases:
+    - Sheridan, R. B. (Richard Brinsley)
+    - Sheridan, Richard Brinsley Butler
+    birthdate: 1751
+    deathdate: 1816
+    gutenberg_agent_id: '754'
+    url: http://www.gutenberg.org/2009/agents/754
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Brinsley_Sheridan
+description: ''
+gutenberg_issued: '2008-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama (Comedy)'
+- !lcsh 'Comedies'
+- !lcsh 'Courtship -- Drama'
+- !lcsh 'Bath (England) -- Drama'
+title: 'The Rivals: A Comedy'
+url: http://www.gutenberg.org/ebooks/24761
